@@ -1,4 +1,4 @@
-# Dicoding Scholarship
+# Dicoding Bootcamp
+![image.png](https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/commons/certificate_logo.png)
 
-This is my first project in Deep Learning when I got a scholarship from Dicoding to learn Machine Learning for Beginner.
-This project about image classification using CNN (Convolutional Neural Network) to classify hand images whether is that paper, rock, or scissors
+This folder contains my individual project from Dicoding Bootcamp
